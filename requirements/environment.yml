@@ -1,0 +1,9 @@
+name: ESKF_sim
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - scipy
+  - numpy
+  - matplotlib
