@@ -32,7 +32,7 @@ This is the key to keeping the estimated position, velocity and attitude errors 
 
 1. Clone this repository.
 
-> git clone 
+> git clone https://gitlab.com/nora_k/eskf_localization.git
 
 
 2. Install the required libraries.
